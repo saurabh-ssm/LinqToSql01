@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EmployeeInfo" Class="EmployeeInfoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=POOLW42SLPC6768;Initial Catalog=EmployeeInfo;Integrated Security=True" SettingsObjectName="Crud_Linq_To_Sql.Properties.Settings" SettingsPropertyName="EmployeeInfoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EmpInfo" Member="EmpInfos">
+    <Type Name="EmpInfo">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="gender" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="age" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="empsal" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

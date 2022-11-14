@@ -1,0 +1,11 @@
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\bin\Debug\Crud_Linq_To_Sql.exe.config
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\bin\Debug\Crud_Linq_To_Sql.exe
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\bin\Debug\Crud_Linq_To_Sql.pdb
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.csproj.AssemblyReference.cache
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.csproj.SuggestedBindingRedirects.cache
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.Form1.resources
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.Properties.Resources.resources
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.csproj.GenerateResource.cache
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.csproj.CoreCompileInputs.cache
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.exe
+C:\Users\SM69950\source\repos\CURD_Linq_To_Sql\Crud_Linq_To_Sql\Crud_Linq_To_Sql\obj\Debug\Crud_Linq_To_Sql.pdb
